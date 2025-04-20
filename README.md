@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Hussein Ghadban
 
-<!--
-**hussenghadban/hussenghadban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who loves crafting clean, scalable web applications from front to back. Whether it's designing intuitive UI or architecting efficient APIs, I'm all about building solid, user-focused solutions.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Full-stack developer with a focus on **TypeScript**, **Express.js**, and **React**
+- ⚙️ I build robust APIs, integrate smart filtering systems, and handle complex data flows
+- 🧠 Passionate about system design, clean code, and creating developer-friendly tools
+- 🧩 Modular component creator – reusable dialogs, toggles, and smart UIs are my jam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Tech Stack
+- **Languages**: TypeScript, JavaScript, HTML, CSS
+- **Frontend**: React, Tanstack React Query, Axios, Tailwind CSS, ShadCN, Framer Motion
+- **Backend**: Node.js, Express.js, MongoDB
+- **Other Tools**: BullMQ (Redis), Git, Postman, Yarn, VSCode
+
+Thanks for visiting my profile! 🚀
