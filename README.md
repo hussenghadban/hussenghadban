@@ -15,7 +15,6 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 - **Other Tools**: BullMQ (Redis), Git, Postman, Yarn, VSCode
 
 Thanks for visiting my profile! 🚀
-![Hussen-ghadban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussenghadban&show_icons=true&theme=dark&count_private=true&hide=contribs)
 
 
 Check out my old GitHub account: [github.com/Hussen-ghadban](https://github.com/Hussen-ghadban)
