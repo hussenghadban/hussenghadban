@@ -17,4 +17,9 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 Thanks for visiting my profile! 🚀
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussenghadban&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hussenghadban&theme=dark)
+
+
 Check out my old GitHub account: [github.com/Hussen-ghadban](https://github.com/Hussen-ghadban)
